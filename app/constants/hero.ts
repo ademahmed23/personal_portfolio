@@ -4,7 +4,7 @@ import bg from "../../public/images/19389.jpg";
 
 export const hero: THero[] = [
   {
-    name: "Adem Ahmed",
+    name: "Adem Ahmed Bekar",
     skills: [
       "Full-Stack Development",
       "Real-time Systems",
