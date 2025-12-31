@@ -14,7 +14,7 @@ export const hero: THero[] = [
       "Socket.IO & WebRTC",
     ],
     description:
-      "Full-Stack Developer passionate about building fast, scalable web apps and real-time systems. Specialized in Next.js, Node.js, Docker, and microservices. Delivering clean, intuitive, and high-performance solutions.",
+      "Full-Stack Developer passionate about building fast, scalable web apps and real-time systems. Specialized in Next.js, Node.js, Docker, and Laravel. Delivering clean, intuitive, and high-performance solutions.",
     profileImage: {
       src: profile,
       alt: "Adem Ahmed Bekar",

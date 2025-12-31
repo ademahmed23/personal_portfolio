@@ -9,9 +9,9 @@ export const config = {
     contact: [
       {
         name: "email",
-        url: "mailto:2000amandanm@gmail.com",
+        url: "mailto:ademahmedbekr@gmail.com",
         icon: "email",
-        value: "2000amandanm@gmail.com",
+        value: "ademahmedbekr@gmail.com",
       },
       {
         name: "location",
@@ -21,15 +21,15 @@ export const config = {
       },
       {
         name: "phone",
-        url: "tel:+251919755719",
+        url: "tel:+25168292069",
         icon: "phone",
-        value: "+251919755719",
+        value: "+25168292069",
       },
     ],
     socialLinks: [
       {
         name: "Telegram",
-        url: "https://t.me/AbeDani",
+        url: "https://t.me/@admamhmd",
         icon: "telegram",
       },
       {
@@ -39,7 +39,7 @@ export const config = {
       },
       {
         name: "GitHub",
-        url: "https://github.com/AbeDevSaga",
+        url: "https://github.com/ademahmed23",
         icon: "github",
       },
       {
@@ -48,7 +48,7 @@ export const config = {
         icon: "upwork",
       },
     ],
-    copyright: "© 2025 AbeDevSaga. All rights reserved.",
+    copyright: "© 2025 Adem Ahmed Bekar. All rights reserved.",
     callToAction: "Let's Connect!",
     headline: "Get Ready To Create Great",
   },
