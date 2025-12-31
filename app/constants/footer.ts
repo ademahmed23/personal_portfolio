@@ -21,9 +21,9 @@ export const config = {
       },
       {
         name: "phone",
-        url: "tel:+25168292069",
+        url: "tel:+251968292069",
         icon: "phone",
-        value: "+25168292069",
+        value: "+251968292069",
       },
     ],
     socialLinks: [
