@@ -36,8 +36,8 @@ const ContactForm = () => {
         {
           from_name: form.name,
           from_email: form.email,
-          to_name: "Amanuel Daniel Merdasa",
-          to_email: "2000amandanm@gmail.com", // The recipient email
+          to_name: "Adem Ahmed Bekar",
+          to_email: "ademahmedbekr@gmail.com", // The recipient email
           phone: form.phone,
           message: form.message,
         },
@@ -65,7 +65,7 @@ const ContactForm = () => {
         <div className="flex flex-col justify-center items-left h-full space-y-3 lg:px-5">
           <h2 className="font-bold text-primary">GET IN TOUCH</h2>
           <p className="text-gray-300 font-bold text-xl lg:text-3xl">
-            Build scalable, high-performance apps with Amanuel Daniel
+            Build scalable, high-performance apps with Adem Ahmed Bekar
           </p>
           <p className="w-full text-gray-400">
             A passionate Full-Stack Developer specializing in Next.js, Node.js,
