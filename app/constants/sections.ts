@@ -5,7 +5,7 @@ export const section: TSections = {
     p: "About",
     h2: "Who I Am",
     content:
-      "I'm Amanuel Daniel, a Full-Stack Developer with a passion for building high-performance web apps and real-time systems using Next.js, Node.js, and Docker.",
+      "I'm Adem Ahmed Bekar, a Full-Stack Developer with a passion for building high-performance web apps and real-time systems using Next.js, Node.js, and Docker.",
   },
   skills: {
     p: "Skills",

@@ -4,7 +4,7 @@ import bg from "../../public/images/19389.jpg";
 
 export const hero: THero[] = [
   {
-    name: "Amanuel Daniel",
+    name: "Adem Ahmed",
     skills: [
       "Full-Stack Development",
       "Real-time Systems",
@@ -17,7 +17,7 @@ export const hero: THero[] = [
       "Full-Stack Developer passionate about building fast, scalable web apps and real-time systems. Specialized in Next.js, Node.js, Docker, and microservices. Delivering clean, intuitive, and high-performance solutions.",
     profileImage: {
       src: profile,
-      alt: "Amanuel Daniel",
+      alt: "Adem Ahmed ",
     },
     backgroundImage: {
       src: bg,
