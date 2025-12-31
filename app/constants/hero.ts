@@ -17,7 +17,7 @@ export const hero: THero[] = [
       "Full-Stack Developer passionate about building fast, scalable web apps and real-time systems. Specialized in Next.js, Node.js, Docker, and microservices. Delivering clean, intuitive, and high-performance solutions.",
     profileImage: {
       src: profile,
-      alt: "Adem Ahmed ",
+      alt: "Adem Ahmed Bekar",
     },
     backgroundImage: {
       src: bg,

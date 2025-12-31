@@ -8,7 +8,7 @@ function ImageCard() {
       <div className="relative w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-sm rounded-xl overflow-hidden shadow-xl border-2 border-white">
         <Image
           src={lelisa}
-          alt="Amanuel Daniel Profile"
+          alt="Adem Ahmed Bekar Profile"
           width={600} 
           height={600} 
           className="w-full object-cover"
